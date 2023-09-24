@@ -28,3 +28,13 @@ nav ul li:hover{
 li.currentPage{
     background-color:rgb(207, 131, 17)
 }
+footer{
+    background-color:rgb(205, 169, 114);
+    color:aqua;
+    padding:20px;
+    position:fixed;
+    bottom:0;
+    left:0;
+    width:100%;
+    text-align:center;
+}
